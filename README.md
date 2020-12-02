@@ -1,4 +1,4 @@
-# Projetos_Estudos
+# Projeto_Analise_Exploratoria_001
 Esse projeto tem como finalidade realizar uma Análise Exploratória de dados a partir de um dataset de carros usados fornecido pelo Kaggle.
 
 O link para o dataset está em:https://www.kaggle.com/orgesleka/used-cars-database
